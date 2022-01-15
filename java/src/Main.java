@@ -18,7 +18,7 @@ public class Main {
                 if(maxUsage==arr[i])
                     System.out.printf("?");
                 else
-                    System.out.printf("%c", 'A'+);
+                    System.out.printf("%c", 'A');
             }
         }
     }
