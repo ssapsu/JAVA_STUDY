@@ -1,5 +1,7 @@
+package week1.day4;
+
 import java.util.*;
-public class Main {
+public class bj1316 {
 	
 	public static void main(String[] args){
 		Scanner sc = new Scanner(System.in);
